@@ -1,0 +1,13 @@
+*.egg-info/
+muse.log
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+data/*.jsonl
+reports/*.md
+!reports/.gitkeep
+*.onnx
+*.joblib
+*.png
+!tests/*.png
